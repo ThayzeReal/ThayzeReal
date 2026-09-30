@@ -1,44 +1,227 @@
-
-![banner.png](https://i.hizliresim.com/9opxa07z.png)
-
-<h1 align="center">Merhaba ben Thayze Real</h1>
-<h3 align="center">**AI ile fikirleri profesyonel projelere dönüştüren bir Vibecoder.**</h3>
+![indir (4).jpg](https://i.hizliresim.com/zwvnc0l6.jpg)
 
 
-- 👨‍💻 All of my projects are available at [aksoyfatih357@gmail.com](aksoyfatih357@gmail.com)
 
-- 📫 How to reach me **discord thayzereal**
+<h1 align="center">Merhaba, ben Thayze Real 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Vibecoder • Discord Bot Geliştiricisi • Web Geliştiricisi</h3>
+
+<p align="center">
+  <strong>Fikirleri, yapay zekâ destekli geliştirme ile profesyonel ve ölçeklenebilir projelere dönüştürüyorum.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+<p align="center">
+  <a href="mailto:aksoyfatih357@gmail.com">
+    <img src="https://img.shields.io/badge/E--Posta-İletişime%20Geç-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-thayzereal-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 Hakkımda
 
-- 🚀 Building **Discord bots & automation systems**
-- 🌐 Developing **modern web applications**
-- 🤖 Using **AI-assisted development** to turn ideas into production-ready projects
-- ⚡ Focused on **clean code, performance and scalable architecture**
-- 🛠️ Always experimenting with new technologies
+* 🚀 **Discord botları, otomasyon sistemleri ve özel çözümler** geliştiriyorum.
+* 🌐 Modern, hızlı ve kullanıcı odaklı **web uygulamaları** geliştiriyorum.
+* 🤖 Yapay zekâ destekli geliştirme ile fikirleri **çalışan ve kullanılabilir projelere** dönüştürüyorum.
+* ⚡ **Temiz kod, performans, güvenlik ve ölçeklenebilir mimari** üzerine odaklanıyorum.
+* 🛠️ Yeni teknolojileri keşfetmeyi ve farklı projeler üzerinde çalışmayı seviyorum.
+* 💡 Özellikle **Discord ekosistemi, web teknolojileri ve backend sistemleri** ile ilgileniyorum.
 
-### 🧠 What I Build
+---
+
+## 🧠 Neler Geliştiriyorum?
 
 ```text
-Discord Bots        →  Automation • Moderation • Custom Systems
-Web Development     →  Modern UI • Full-Stack Applications
-AI Development      →  AI-assisted • Rapid Prototyping • Vibecoding
-Backend Systems     →  APIs • Databases • Scalable Architecture
+Discord Botları      →  Otomasyon • Moderasyon • Kayıt • Özel Sistemler
+Web Geliştirme       →  Modern Arayüzler • Full-Stack • Web Uygulamaları
+Yapay Zekâ           →  AI Destekli Geliştirme • Vibecoding • Prototipleme
+Backend Sistemleri   →  API • Veritabanı • Sunucu • Ölçeklenebilir Mimari
+```
 
+---
 
+## 🛠️ Teknolojiler
 
-**Daha profesyonel kısa bio** olarak da bunu kullanabilirsin:
+### 🎨 Frontend
 
-> **Building scalable Discord bots, modern web applications and AI-powered experiences.**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
+  </a>
+</p>
 
-Bence GitHub profili için bu, “AI ile kod yazıyorum” havasından ziyade **gerçek bir developer profili** izlenimi verir.
+---
+
+### ⚙️ Backend
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### 🗄️ Veritabanları
+
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### ☁️ DevOps & Altyapı
+
+<p align="left">
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+  </a>
+  <a href="https://www.nginx.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Üzerinde Çalıştığım Alanlar
+
+```text
+Discord Ekosistemi
+├── Discord Botları
+├── Otomasyon Sistemleri
+├── Moderasyon Sistemleri
+├── Özel Sunucu Sistemleri
+└── API Entegrasyonları
+
+Web Geliştirme
+├── Modern Web Siteleri
+├── Full-Stack Uygulamalar
+├── Yönetim Panelleri
+├── API Sistemleri
+└── Kullanıcı Odaklı Arayüzler
+
+Yapay Zekâ
+├── AI Destekli Geliştirme
+├── Vibecoding
+├── Hızlı Prototipleme
+└── AI Entegrasyonları
+
+Altyapı
+├── Linux
+├── Docker
+├── Nginx
+├── AWS
+├── Azure
+└── Sunucu Yönetimi
+```
+
+---
+
+## 📊 Geliştirme Anlayışım
+
+> **Fikri oluştur.**
+>
+> **Kodla.**
+>
+> **Geliştir.**
+>
+> **Ölçeklendir.**
+
+Benim için bir projenin sadece çalışması yeterli değil.
+Kodun **anlaşılabilir, güvenli, performanslı ve geliştirilebilir** olması da önemli.
+
+---
+
+## ⚡ Şu Anda
+
+```text
+🔨 Discord botları geliştiriyorum
+🌐 Modern web projeleri geliştiriyorum
+🤖 Yapay zekâ destekli sistemler üzerinde çalışıyorum
+🧠 Yeni teknolojiler öğreniyorum
+🚀 Yeni fikirleri gerçek projelere dönüştürüyorum
+```
+
+---
+
+## 📫 İletişim
+
+<p align="left">
+  <a href="mailto:aksoyfatih357@gmail.com">
+    <img src="https://img.shields.io/badge/E--Posta-aksoyfatih357%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-thayzereal-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 Thayze Real</h3>
+
+<p align="center">
+  <strong>Discord Bot Developer • Web Developer • Vibecoder</strong>
+</p>
+
+<p align="center">
+  Fikirlerden çalışan sistemlere.
+</p>
