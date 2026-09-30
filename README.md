@@ -21,6 +21,9 @@
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-thayzereal-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://www.instagram.com/thayzeereal/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-thayzeereal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
