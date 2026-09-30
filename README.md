@@ -1,4 +1,6 @@
-![giphy_2.gif](https://i.hizliresim.com/hilwhwpu.gif)
+![WhatsApp Image 2026-09-30 at 23.49.11.jpeg](https://i.hizliresim.com/ph2ssz0i.jpg)
+
+
 
 
 
