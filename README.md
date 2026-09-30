@@ -1,4 +1,4 @@
-</h1> ![Mann Patel (@punsbymann) on X.jpg](https://i.hizliresim.com/pisleshg.jpg)</h1>
+![Gemini_Generated_Image_blm84zblm84zblm8.jpg](https://i.hizliresim.com/fdg05brw.jpg)
 
 
 
