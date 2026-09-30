@@ -1,5 +1,6 @@
 ![Gemini_Generated_Image_blm84zblm84zblm8.jpg](https://i.hizliresim.com/fdg05brw.jpg)
 
+<p align="center"> <img src="./banner.svg" width="100%" alt="ThayzeReal"> </p>
 
 
 
