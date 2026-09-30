@@ -1,11 +1,4 @@
-![images (4).jpg](https://i.hizliresim.com/nrrxrebp.jpg)
-
-![MasterHead](https://i.hizliresim.com/nrrxrebp.jpg)
-
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGIIsHRQFuzeg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1714424469131?e=1792627200&v=beta&t=J3oCdNFPBBF2aFQH9piBYHyD6jlvJMhx0gSzj48LibY)
-
-
-
+https://hizliresim.com/upload-success?expires=1790795934&token=e47798643e6e26a54b2a1d9fdf8ce1bd495d642644a57097bfb0a3640a0b9c42&signature=b9be1ecb6a7b0012a211d2454ca7587d9583ab34e34596ff7d8147e7e587fe43#:~:text=!%5Bbanner.png%5D(https%3A//i.hizliresim.com/9opxa07z.png)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=THAYZE%20REAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibecoder%20%7C%20Discord%20Bot%20Developer%20%7C%20Web%20Developer&descSize=17&descAlignY=58" />
