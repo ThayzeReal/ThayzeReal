@@ -4,13 +4,10 @@
 <h1 align="center">Merhaba ben Thayze Real</h1>
 <h3 align="center">**AI ile fikirleri profesyonel projelere dönüştüren bir Vibecoder.**</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thayzereal&label=Profile%20views&color=0e75b6&style=flat" alt="thayzereal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thayzereal" alt="thayzereal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [aksoyfatih357@gmail.com](aksoyfatih357@gmail.com)
 
-- 📫 How to reach me **aksoyfatih357@gmail.com**
+- 📫 How to reach me **discord thayzereal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
