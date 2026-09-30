@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-09-30 at 23.49.11.jpeg](https://i.hizliresim.com/ph2ssz0i.jpg)
+</h1> ![Mann Patel (@punsbymann) on X.jpg](https://i.hizliresim.com/pisleshg.jpg)</h1>
 
 
 
