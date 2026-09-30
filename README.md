@@ -1,37 +1,5 @@
-````html
-<div align="center">
 
-<pre>
-████████╗██╗  ██╗ █████╗ ██╗   ██╗███████╗██████╗ ███████╗ █████╗ ██╗
-╚══██╔══╝██║  ██║██╔══██╗╚██╗ ██╔╝╚══███╔╝██╔══██╗██╔════╝██╔══██╗██║
-   ██║   ███████║███████║ ╚████╔╝   ███╔╝ ██████╔╝█████╗  ███████║██║
-   ██║   ██╔══██║██╔══██║  ╚██╔╝   ███╔╝  ██╔═══╝ ██╔══╝  ██╔══██║██║
-   ██║   ██║  ██║██║  ██║   ██║   ███████╗██║     ███████╗██║  ██║██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝
-</pre>
-
-```text
-root@thayze:~$ ./initialize
-
-[████████████████████] 100%
-
-SYSTEM       : ONLINE
-DEVELOPER    : THAYZEREAL
-ROLE         : VIBE CODER
-STACK        : WEB + AI
-STATUS       : READY_
-
-> turning_ideas_into_digital_experiences_
-
-THAYZEREAL.DEV • SYSTEM ONLINE • 2026
-````
-
-</div>
-```
-
-Fakat **gerçek SVG tasarımını** istiyorsan, bunu README'ye tek dosyada zorlamak yerine `README.md` + `banner.svg` yapmak çok daha sağlıklı.
-
-İstersen sana **GitHub'ın kesin render edeceği, aşırı profesyonel hacker tarzı `banner.svg` + README'nin en üstüne koyacağın tek satırı** hazırlayayım.
+![Gemini_Generated_Image_blm84zblm84zblm8.jpg](https://i.hizliresim.com/fdg05brw.jpg)
 
 <p align="center"> <img src="./banner.svg" width="100%" alt="ThayzeReal"> </p>
 
@@ -281,7 +249,3 @@ Kodun **anlaşılabilir, güvenli, performanslı ve geliştirilebilir** olması 
 <p align="center">
   Fikirlerden çalışan sistemlere.
 </p>
-
-
-
-
