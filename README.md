@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thayzereal" alt="thayzereal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kandemiroffical.com](https://kandemiroffical.com)
+- 👨‍💻 All of my projects are available at [aksoyfatih357@gmail.com](aksoyfatih357@gmail.com)
 
-- 📫 How to reach me **kandemirgokdag@gmail.com**
+- 📫 How to reach me **aksoyfatih357@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
