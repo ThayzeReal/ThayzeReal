@@ -1,336 +1,272 @@
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
 
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#010302"/>
-    <stop offset=".5" stop-color="#07100c"/>
-    <stop offset="1" stop-color="#000000"/>
-  </linearGradient>
+<rect width="1200" height="400" fill="#030504"/>
 
-  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#ffffff"/>
-    <stop offset=".5" stop-color="#00ff9c"/>
-    <stop offset="1" stop-color="#ffffff"/>
-  </linearGradient>
+<g stroke="#00ff9c" stroke-width="1" opacity="0.06">
+<path d="M0 40H1200"/>
+<path d="M0 80H1200"/>
+<path d="M0 120H1200"/>
+<path d="M0 160H1200"/>
+<path d="M0 200H1200"/>
+<path d="M0 240H1200"/>
+<path d="M0 280H1200"/>
+<path d="M0 320H1200"/>
+<path d="M0 360H1200"/>
+<path d="M40 0V400"/>
+<path d="M80 0V400"/>
+<path d="M120 0V400"/>
+<path d="M160 0V400"/>
+<path d="M200 0V400"/>
+<path d="M240 0V400"/>
+<path d="M280 0V400"/>
+<path d="M320 0V400"/>
+<path d="M360 0V400"/>
+<path d="M400 0V400"/>
+<path d="M440 0V400"/>
+<path d="M480 0V400"/>
+<path d="M520 0V400"/>
+<path d="M560 0V400"/>
+<path d="M600 0V400"/>
+<path d="M640 0V400"/>
+<path d="M680 0V400"/>
+<path d="M720 0V400"/>
+<path d="M760 0V400"/>
+<path d="M800 0V400"/>
+<path d="M840 0V400"/>
+<path d="M880 0V400"/>
+<path d="M920 0V400"/>
+<path d="M960 0V400"/>
+<path d="M1000 0V400"/>
+<path d="M1040 0V400"/>
+<path d="M1080 0V400"/>
+<path d="M1120 0V400"/>
+<path d="M1160 0V400"/>
+</g>
 
-  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
-    <stop offset=".5" stop-color="#00ff9c" stop-opacity=".7"/>
-    <stop offset="1" stop-color="#00ff9c" stop-opacity="0"/>
-  </linearGradient>
+<g fill="#00ff9c" opacity="0.14" font-family="monospace" font-size="11">
+<text x="30" y="35">01001000 01000001 01000011 01001011</text>
+<text x="30" y="52">01110100 01101000 01100001 01111001</text>
+<text x="30" y="69">01111010 01100101 01010010 01100101</text>
 
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M40 0H0V40" fill="none" stroke="#00ff9c" stroke-opacity=".035"/>
-  </pattern>
+<text x="900" y="35">01010100 01001000 01000001 01011001</text>
+<text x="900" y="52">01011010 01000101 01010010 01000101</text>
+<text x="900" y="69">01001111 01001110 01001100 01001001</text>
 
-  <pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse">
-    <rect width="4" height="1" fill="#00ff9c" opacity=".025"/>
-  </pattern>
+<text x="30" y="345">root@thayze:~$ ./initialize</text>
+<text x="30" y="362">system.status = ONLINE</text>
 
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="4" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <filter id="soft">
-    <feGaussianBlur stdDeviation="14"/>
-  </filter>
-</defs>
-
-<!-- BACKGROUND -->
-<rect width="1200" height="400" fill="url(#bg)"/>
-<rect width="1200" height="400" fill="url(#grid)"/>
-<rect width="1200" height="400" fill="url(#scan)"/>
-
-<!-- CENTER GLOW -->
-<ellipse cx="600" cy="190" rx="380" ry="120"
-         fill="#00ff9c" opacity=".025" filter="url(#soft)"/>
-
-<!-- MOVING SCAN -->
-<rect x="-300" y="0" width="220" height="400"
-      fill="url(#beam)" opacity=".12">
-  <animate attributeName="x"
-           from="-300"
-           to="1250"
-           dur="6s"
-           repeatCount="indefinite"/>
-</rect>
-
-<!-- MATRIX TEXT -->
-<g font-family="monospace"
-   font-size="11"
-   fill="#00ff9c"
-   opacity=".11">
-
-  <text x="25" y="45">01001000 01000001 01000011 01001011</text>
-  <text x="25" y="63">01110100 01101000 01100001 01111001</text>
-  <text x="25" y="81">01111010 01100101 01010010 01100101</text>
-
-  <text x="900" y="45">01010100 01001000 01000001 01011001</text>
-  <text x="900" y="63">01011010 01000101 01010010 01000101</text>
-  <text x="900" y="81">01001111 01001110 01001100 01001001</text>
-
-  <text x="30" y="330">root@thayze:~$ ./system</text>
-  <text x="930" y="330">access.granted = true</text>
+<text x="930" y="345">access.granted = true</text>
+<text x="930" y="362">connection.secure = true</text>
 </g>
 
 <!-- LEFT TERMINAL -->
-<g transform="translate(55 105)">
 
-  <rect width="280" height="145"
-        rx="10"
-        fill="#020504"
-        stroke="#00ff9c"
-        stroke-opacity=".18"/>
+<g transform="translate(65 105)">
 
-  <rect width="280" height="30"
-        rx="10"
-        fill="#00ff9c"
-        opacity=".035"/>
+<rect width="270"
+height="145"
+rx="8"
+fill="#050807"
+stroke="#00ff9c"
+stroke-width="1"
+opacity="0.9"/>
 
-  <circle cx="18" cy="15" r="4"
-          fill="#00ff9c" opacity=".55"/>
-  <circle cx="33" cy="15" r="4"
-          fill="#ffffff" opacity=".18"/>
-  <circle cx="48" cy="15" r="4"
-          fill="#ffffff" opacity=".10"/>
+<rect width="270"
+height="28"
+rx="8"
+fill="#00ff9c"
+opacity="0.04"/>
 
-  <text x="18" y="55"
-        fill="#00ff9c"
-        font-family="monospace"
-        font-size="12">
-    root@thayze:~$
-  </text>
+<circle cx="17" cy="14" r="4" fill="#00ff9c" opacity="0.7"/>
+<circle cx="32" cy="14" r="4" fill="#ffffff" opacity="0.2"/>
+<circle cx="47" cy="14" r="4" fill="#ffffff" opacity="0.1"/>
 
-  <text x="18" y="78"
-        fill="#ffffff"
-        opacity=".55"
-        font-family="monospace"
-        font-size="11">
-    ./initialize_thayze
-  </text>
+<text x="18" y="53"
+fill="#00ff9c"
+font-family="monospace"
+font-size="12">
+root@thayze:~$
+</text>
 
-  <text x="18" y="100"
-        fill="#ffffff"
-        opacity=".38"
-        font-family="monospace"
-        font-size="11">
-    loading creativity...
-  </text>
+<text x="18" y="76"
+fill="#ffffff"
+opacity="0.6"
+font-family="monospace"
+font-size="11">
+./build_thayze
+</text>
 
-  <text x="18" y="122"
-        fill="#00ff9c"
-        opacity=".7"
-        font-family="monospace"
-        font-size="11">
-    [##################] 100%
-  </text>
+<text x="18" y="98"
+fill="#ffffff"
+opacity="0.4"
+font-family="monospace"
+font-size="11">
+loading projects...
+</text>
 
-  <text x="18" y="140"
-        fill="#00ff9c"
-        opacity=".45"
-        font-family="monospace"
-        font-size="10">
-    access_granted
-  </text>
+<text x="18" y="120"
+fill="#00ff9c"
+opacity="0.65"
+font-family="monospace"
+font-size="11">
+[##################] 100%
+</text>
+
+<text x="18" y="138"
+fill="#00ff9c"
+opacity="0.5"
+font-family="monospace"
+font-size="10">
+status: ready_
+</text>
 
 </g>
 
 <!-- RIGHT CODE -->
-<g transform="translate(925 105)"
-   font-family="monospace"
-   font-size="11"
-   fill="#00ff9c"
-   opacity=".20">
 
-  <text y="20">const developer = {</text>
-  <text x="12" y="42">name: "ThayzeReal",</text>
-  <text x="12" y="64">mode: "vibe_coder",</text>
-  <text x="12" y="86">stack: "WEB + AI",</text>
-  <text x="12" y="108">status: "ONLINE"</text>
-  <text y="130">};</text>
+<g transform="translate(900 105)"
+font-family="monospace"
+font-size="11"
+fill="#00ff9c"
+opacity="0.2">
+
+<text y="20">const developer = {</text>
+<text x="12" y="42">name: "ThayzeReal",</text>
+<text x="12" y="64">role: "Vibe Coder",</text>
+<text x="12" y="86">stack: "WEB + AI",</text>
+<text x="12" y="108">status: "ONLINE"</text>
+<text y="130">};</text>
 
 </g>
 
-<!-- MAIN TITLE GLOW -->
-<text x="600"
-      y="190"
-      text-anchor="middle"
-      fill="#00ff9c"
-      opacity=".20"
-      filter="url(#glow)"
-      font-family="monospace"
-      font-size="62"
-      font-weight="900"
-      letter-spacing="8">
-  THAYZEREAL
-</text>
-
 <!-- MAIN TITLE -->
-<text x="600"
-      y="190"
-      text-anchor="middle"
-      fill="url(#green)"
-      font-family="monospace"
-      font-size="62"
-      font-weight="900"
-      letter-spacing="8">
-  THAYZEREAL
+
+<text
+x="600"
+y="185"
+text-anchor="middle"
+fill="#00ff9c"
+font-family="monospace"
+font-size="62"
+font-weight="bold"
+letter-spacing="8">
+THAYZEREAL
 </text>
 
-<!-- GLITCH -->
-<text x="603"
-      y="190"
-      text-anchor="middle"
-      fill="#00ff9c"
-      opacity=".25"
-      font-family="monospace"
-      font-size="62"
-      font-weight="900"
-      letter-spacing="8">
-  THAYZEREAL
+<!-- GLITCH LINES -->
 
-  <animateTransform
-    attributeName="transform"
-    type="translate"
-    values="0 0;-5 0;5 0;0 0"
-    dur=".25s"
-    repeatCount="indefinite"/>
-</text>
+<rect x="425" y="150"
+width="350"
+height="1"
+fill="#00ff9c"
+opacity="0.25"/>
 
-<!-- UNDERLINE -->
-<rect x="400" y="213"
-      width="400"
-      height="2"
-      rx="2"
-      fill="#00ff9c"
-      opacity=".55"
-      filter="url(#glow)">
+<rect x="455" y="201"
+width="290"
+height="1"
+fill="#00ff9c"
+opacity="0.5"/>
 
-  <animate attributeName="width"
-           values="200;400;280;400"
-           dur="3s"
-           repeatCount="indefinite"/>
-
-  <animate attributeName="x"
-           values="500;400;460;400"
-           dur="3s"
-           repeatCount="indefinite"/>
-</rect>
+<rect x="490" y="210"
+width="220"
+height="1"
+fill="#ffffff"
+opacity="0.15"/>
 
 <!-- SUBTITLE -->
-<text x="600"
-      y="250"
-      text-anchor="middle"
-      fill="#ffffff"
-      opacity=".65"
-      font-family="monospace"
-      font-size="15"
-      letter-spacing="4">
-  VIBE CODER • WEB DEVELOPER • AI
+
+<text
+x="600"
+y="245"
+text-anchor="middle"
+fill="#ffffff"
+opacity="0.7"
+font-family="monospace"
+font-size="15"
+letter-spacing="4">
+VIBE CODER • WEB DEVELOPER • AI
 </text>
 
 <!-- STATUS -->
-<text x="600"
-      y="280"
-      text-anchor="middle"
-      fill="#00ff9c"
-      opacity=".65"
-      font-family="monospace"
-      font-size="12">
-  &gt; turning_ideas_into_digital_experiences_
-  <animate attributeName="opacity"
-           values=".25;.8;.25"
-           dur="1.4s"
-           repeatCount="indefinite"/>
+
+<text
+x="600"
+y="275"
+text-anchor="middle"
+fill="#00ff9c"
+opacity="0.65"
+font-family="monospace"
+font-size="12">
+&gt; turning_ideas_into_digital_experiences_
 </text>
 
-<!-- PARTICLES -->
-<g fill="#00ff9c" filter="url(#glow)">
+<!-- CIRCUITS -->
 
-  <circle cx="370" cy="90" r="2">
-    <animate attributeName="cy"
-             values="90;75;90"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="830" cy="100" r="2">
-    <animate attributeName="cy"
-             values="100;120;100"
-             dur="3.5s"
-             repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="380" cy="300" r="2">
-    <animate attributeName="cx"
-             values="380;400;380"
-             dur="4s"
-             repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="820" cy="310" r="2">
-    <animate attributeName="cx"
-             values="820;800;820"
-             dur="4.5s"
-             repeatCount="indefinite"/>
-  </circle>
-
-</g>
-
-<!-- CIRCUIT LINES -->
 <g fill="none"
-   stroke="#00ff9c"
-   stroke-opacity=".16">
+stroke="#00ff9c"
+stroke-width="1"
+opacity="0.2">
 
-  <path d="M0 310H150L180 280H300"/>
-  <path d="M1200 310H1050L1020 280H900"/>
+<path d="M0 295H145L175 265H300"/>
+<path d="M1200 295H1055L1025 265H900"/>
 
-  <path d="M0 330H110"/>
-  <path d="M1090 330H1200"/>
+<path d="M0 315H100"/>
+<path d="M1100 315H1200"/>
 
 </g>
 
-<!-- BOTTOM LINE -->
-<rect x="80"
-      y="350"
-      width="1040"
-      height="1"
-      fill="#00ff9c"
-      opacity=".15"/>
+<!-- CIRCUIT POINTS -->
 
-<!-- FOOTER -->
-<text x="600"
-      y="375"
-      text-anchor="middle"
-      fill="#00ff9c"
-      opacity=".38"
-      font-family="monospace"
-      font-size="11"
-      letter-spacing="3">
-  THAYZEREAL.DEV • SYSTEM ONLINE • 2026
+<g fill="#00ff9c" opacity="0.5">
+
+<circle cx="145" cy="295" r="2"/>
+<circle cx="175" cy="265" r="2"/>
+<circle cx="1055" cy="295" r="2"/>
+<circle cx="1025" cy="265" r="2"/>
+
+</g>
+
+<!-- BOTTOM -->
+
+<rect
+x="80"
+y="350"
+width="1040"
+height="1"
+fill="#00ff9c"
+opacity="0.18"/>
+
+<text
+x="600"
+y="375"
+text-anchor="middle"
+fill="#00ff9c"
+opacity="0.4"
+font-family="monospace"
+font-size="11"
+letter-spacing="3">
+THAYZEREAL.DEV • SYSTEM ONLINE • 2026
 </text>
 
 <!-- CORNERS -->
-<g stroke="#00ff9c"
-   stroke-opacity=".35"
-   fill="none">
 
-  <path d="M20 20H60"/>
-  <path d="M20 20V60"/>
+<g
+stroke="#00ff9c"
+stroke-width="1"
+opacity="0.4">
 
-  <path d="M1180 20H1140"/>
-  <path d="M1180 20V60"/>
+<path d="M20 20H60"/>
+<path d="M20 20V60"/>
 
-  <path d="M20 380H60"/>
-  <path d="M20 380V340"/>
+<path d="M1180 20H1140"/>
+<path d="M1180 20V60"/>
 
-  <path d="M1180 380H1140"/>
-  <path d="M1180 380V340"/>
+<path d="M20 380H60"/>
+<path d="M20 380V340"/>
+
+<path d="M1180 380H1140"/>
+<path d="M1180 380V340"/>
 
 </g>
 
