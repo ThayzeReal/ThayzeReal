@@ -181,6 +181,21 @@ Altyapı
 └── Sunucu Yönetimi
 ```
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThayzeReal&show_icons=true&locale=tr" height="180" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThayzeReal" height="180" alt="GitHub Streak" />
+</p>
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📊 Geliştirme Anlayışım
@@ -232,3 +247,7 @@ Kodun **anlaşılabilir, güvenli, performanslı ve geliştirilebilir** olması 
 <p align="center">
   Fikirlerden çalışan sistemlere.
 </p>
+
+
+
+
